@@ -1,1 +1,1 @@
-{% include "./docs/react-native-flat-app-theme/README.md" %}
+{% include "./docs/native-starter-pro/README.md" %}
