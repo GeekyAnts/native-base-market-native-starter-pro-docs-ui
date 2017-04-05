@@ -1,0 +1,40 @@
+{
+    "plugins": [
+        "ga",
+        "versions",
+        "scripts"
+    ],
+    "title": "NativeBase Market UI Themes",
+    "variables":{
+      "options": "react-native-flat-app-theme"
+       },
+    "pluginsConfig": {
+      "scripts": {
+          "files": [
+              "./engine.js"
+          ]
+      },
+        "versions": {
+
+            "gitbookConfigURL": "http://rawgit.com/GeekyAnts/SwiggyApp-docs/master/book.json",
+            "options": [
+                {
+                    "value": "http://rawgit.com/GeekyAnts/SwiggyApp-docs/development/_book/index.html",
+                    "text": "development"
+                },
+                {
+                    "value": "http://docs.market.nativebase.io/react-native-food-ordering-app/",
+                    "text": "latest"
+                },
+                {
+                    "value": "http://docs.market.nativebase.io/react-native-food-ordering-app/",
+                    "text": "-- select version --",
+                    "selected": false
+                }
+            ]
+        },
+        "ga": {
+            "token": "UA-91837749-1"
+        }
+    }
+}
