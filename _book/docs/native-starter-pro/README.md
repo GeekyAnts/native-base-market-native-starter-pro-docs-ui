@@ -1,5 +1,5 @@
 <center><img src ="./assets/playstore-icon.png" style="width: 50%; hieght: 50%"></center>
-# Native Starter Pro - The Bootstrap of React Native
+# Native Starter Pro
 
 Based on [React Native](https://github.com/facebook/react-native) and [NativeBase](http://nativebase.io/), we offer you [Native Starter Pro](http://market.nativebase.io) is a beautifully designed, responsive iOS and Android app source code to quickly get started on your next project.
 
