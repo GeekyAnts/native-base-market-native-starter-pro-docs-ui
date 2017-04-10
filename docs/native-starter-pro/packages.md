@@ -5,7 +5,7 @@ _package.json_
 <pre class="line-numbers"><code class="language-json">
 {
   "name": "nativestarterpro",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "private": true,
   "devDependencies": {
     "react-native-scripts": "0.0.26",

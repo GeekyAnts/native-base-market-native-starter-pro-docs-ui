@@ -1,8 +1,8 @@
 {
     "plugins": [
         "ga",
-        "versions",
         "scripts",
+        "edit-link",
         "include-codeblock",
         "ace"
     ],
@@ -11,21 +11,15 @@
       "options": "react-native-flat-app-theme"
        },
     "pluginsConfig": {
+      "edit-link": {
+            "base": "https://github.com/GeekyAnts/native-base-market-native-starter-pro-docs-ui/tree/master",
+            "label": "Edit This Page"
+        },
       "scripts": {
           "files": [
               "./engine.js"
           ]
       },
-        "versions": {
-
-            "gitbookConfigURL": "http://rawgit.com/GeekyAnts/native-base-market-native-starter-pro-docs-ui/master/book.json",
-            "options": [
-                {
-                    "value": "http://docs.market.nativebase.io/native-starter-pro-ui/",
-                    "text": "v6.0.0"
-                }
-            ]
-        },
         "ga": {
             "token": "UA-91837749-1"
         },
