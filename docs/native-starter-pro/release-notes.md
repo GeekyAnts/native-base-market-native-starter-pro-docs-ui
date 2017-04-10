@@ -4,10 +4,10 @@
 
 #### Upgraded Features
 
+*   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
 *   Upgraded [**NativeBase**](https://github.com/GeekyAnts/NativeBase) from 0.5.x to 2.x.x
 *   Upgraded [**React**](https://facebook.github.io/react/) from 15.3.2 to 15.4.2
 *   Upgraded [**React Native**](https://github.com/facebook/react-native) from 0.35.0 to 0.41.0
-*   Upgraded [**React Native CodePush**](https://github.com/Microsoft/react-native-code-push) from 1.15.0-beta to 1.17.0-beta
 *   Upgraded **Navigator** from **Navigation Experimental** to [**React Native Router Flux**](https://github.com/aksonov/react-native-router-flux)
 
 * * *
