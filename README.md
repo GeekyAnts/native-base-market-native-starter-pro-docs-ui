@@ -1,1 +1,1 @@
-{% include "./docs/native-starter-pro/README.md" %}
+{% include "./docs/README.md" %}

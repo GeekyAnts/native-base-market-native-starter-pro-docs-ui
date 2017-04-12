@@ -5,7 +5,12 @@
 #### New Features
 
 *   Using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
+
+#### Upgraded Features
+
 *   Upgraded to [React Native](https://github.com/facebook/react-native) 0.42.3
+
+* * *
 
 ### 6.0.0
 
@@ -17,7 +22,6 @@
 *   Upgraded **Navigator** from **Navigation Experimental** to [**React Native Router Flux**](https://github.com/aksonov/react-native-router-flux)
 
 * * *
-
 
 ### 5.2.0
 
