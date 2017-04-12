@@ -3,7 +3,7 @@
 #### Enhancements
 
 * Created using [**Create React Native App**](https://github.com/react-community/create-react-native-app)
-* Upgraded to [**React Native**](https://github.com/facebook/react-native) 0.41.0
+* Upgraded to [**React Native**](https://github.com/facebook/react-native) 0.42.3
 
 #### RoadMap
 
